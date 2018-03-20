@@ -19,7 +19,7 @@ To bind it to any element with a [data-scroll-text] attribute, use this code.
 ```javascript
 import ScrollText from 'scroll-text';
 
-const els = document.querySelectorAll('[data-scroll-text]);
+const els = document.querySelectorAll('[data-scroll-text]');
 Array.from(els).forEach(el => {
     new ScrollText(el);
 });
