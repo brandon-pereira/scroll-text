@@ -2,7 +2,7 @@
 
 Zero-dependency module to scroll between predefined text. Leverages Element.animate for modern browsers, and falls back on simple class based animations for legacy browsers.
 
-![Example](https://github.com/brandon-pereira/example.gif)
+![Example](https://raw.githubusercontent.com/brandon-pereira/scroll-text/master/example.gif)
 
 ## Installation
 
