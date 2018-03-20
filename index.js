@@ -33,7 +33,7 @@ class ScrollText {
         if (this.index > this.text.length - 1) {
             this.index = 0;
         }
-        this._setCurrentSlide(this.index);
+        this.setCurrentSlide(this.index);
     }
 
     /**
