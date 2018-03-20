@@ -1,4 +1,4 @@
-# Text Scroll
+# ScrollText
 
 Zero-dependency module to scroll between predefined text. Leverages Element.animate for modern browsers, and falls back on simple class based animations for legacy browsers.
 
@@ -76,8 +76,3 @@ The following is recommended for styling. These styles ensure the component rend
   }
 }
 ```
-
-## TODO
-
-- Gif of it in use
-- Publish it
