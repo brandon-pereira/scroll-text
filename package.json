@@ -1,0 +1,24 @@
+{
+  "name": "scroll-text",
+  "version": "1.0.0",
+  "description": "Zero-dependency module to scroll between predefined text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandon-pereira/scroll-text.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "scrolltext"
+  ],
+  "author": "brandon-pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandon-pereira/scroll-text/issues"
+  },
+  "homepage": "https://github.com/brandon-pereira/scroll-text#readme"
+}
